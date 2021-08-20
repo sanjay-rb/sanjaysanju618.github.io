@@ -1,0 +1,14 @@
+{ "columns":24,
+ "image":"BD001.png",
+ "imageheight":1104,
+ "imagewidth":393,
+ "margin":0,
+ "name":"BD001",
+ "spacing":0,
+ "tilecount":1656,
+ "tiledversion":"1.7.1",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}
